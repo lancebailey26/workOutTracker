@@ -1,12 +1,14 @@
 # Fitness Tracker
 
 ## Description
+**Note:** application is only partially working currently.
 
 This is a fitness tracker that allows users to track and get basic analytics from their previous workouts. It uses a NoSQL database and the Mongoose ORM.
   
 --- 
 
 ## https://github.com/lancebailey26/workOutTracker
+## https://young-everglades-00208.herokuapp.com/
 
 ![Screenshot](./public/Screenshot.png)
 
